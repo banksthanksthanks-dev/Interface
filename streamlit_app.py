@@ -186,3 +186,4 @@ with tab3:
     st.markdown("🟢 **Serveur Cloud :** Sécurisé")
     st.markdown("🤖 **Bot Telegram :** Connecté")
     st.markdown("</div>", unsafe_allow_html=True)
+google-genai
